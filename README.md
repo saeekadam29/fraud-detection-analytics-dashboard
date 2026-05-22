@@ -4,6 +4,13 @@
 ## 📊 Live Preview
 ![Dashboard]( Fraud Detection Analytics Dashboard.png)
 
+## Data set used for dashboard fraud_data_clean.csv
+This cleaned dataset was prepared for fraud detection analysis and dashboard development. The preprocessing stage involved handling missing values, scaling important numerical features, transforming transaction data, and preparing the dataset for machine learning and visualization purposes.
+Checked and handled missing/null values
+Standardized transaction-related numerical features
+Scaled Amount and Time features using StandardScaler
+Prepared data for fraud analysis and predictive modeling
+
 ## 🎯 Key Findings
 - Fraud Rate: 0.17%** — 97 fraud cases out of 57K transactions
 - Critical & High risk bands** show fraud probability > 0.8
