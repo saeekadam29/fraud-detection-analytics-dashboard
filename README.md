@@ -1,8 +1,6 @@
 # 🔍 Fraud Detection Analytics Dashboard
 > Real-time fraud monitoring across 56,892 transactions using Power BI
 
-## 📊 Live Preview
-![Dashboard]( Fraud Detection Analytics Dashboard.png)
 
 ## Data set used for dashboard fraud_data_clean.csv
 This cleaned dataset was prepared for fraud detection analysis and dashboard development. The preprocessing stage involved handling missing values, scaling important numerical features, transforming transaction data, and preparing the dataset for machine learning and visualization purposes.
